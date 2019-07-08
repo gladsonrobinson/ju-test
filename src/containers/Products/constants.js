@@ -1,0 +1,5 @@
+export const FETCH_SUCCESS = "FETCH_SUCCESS";
+export const SEARCH_REJECTED = "SEARCH_REJECTED";
+export const SET_FETCH_STATUS = "SET_FETCH_STATUS";
+export const CLEAR_RESULTS = "CLEAR_RESULTS";
+export const ADD_ITEM_CART = "ADD_ITEM_CART";
